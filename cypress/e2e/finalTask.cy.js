@@ -36,6 +36,8 @@ describe("Final Task - Automation Practice Form", () => {
         FormPage.city.click();
         cy.contains("div", "Delhi").click();
 
+//In task description there were no parameters for Current Adress (did not include)
+
         //submit
         FormPage.submitButton.click();
 

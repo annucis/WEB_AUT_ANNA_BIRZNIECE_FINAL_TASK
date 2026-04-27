@@ -39,6 +39,8 @@ class FormPage {
         return cy.get("#uploadPicture");
     }
 
+//In task description there were no parameters for Current Adress (did not include)
+
     static get state() {
         return cy.get("#state");
     }
