@@ -1,0 +1,23 @@
+{
+  "name": "final_task_web_automation",
+  "version": "1.0.0",
+  "description": "FINAL TASK in WEB AUTOMATION - Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annucis/WEB_AUT_ANNA_BIRZNIECE_FINAL_TASK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annucis/WEB_AUT_ANNA_BIRZNIECE_FINAL_TASK/issues"
+  },
+  "homepage": "https://github.com/annucis/WEB_AUT_ANNA_BIRZNIECE_FINAL_TASK#readme",
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  }
+}
